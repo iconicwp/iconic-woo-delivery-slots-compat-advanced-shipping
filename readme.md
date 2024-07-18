@@ -4,5 +4,5 @@ This is a compatibility plugin for [WooCommerce Delivery Slots](https://iconicwp
 
 # Changelog
 
-## 0.1.0 (2024-04-05)
+## 0.1.0 (2024-07-18)
 * Initial Release.
